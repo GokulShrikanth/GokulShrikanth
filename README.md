@@ -25,7 +25,7 @@ Hello, I am Gokul Shrikanth and I am a master's student at [Dublin City Univeris
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![vert.x] (https://img.shields.io/badge/-Vert.x-black?logo=vert.x&style=social)&nbsp;&nbsp;
+![vert.x](https://img.shields.io/badge/-Vert.x-black?logo=vert.x&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
