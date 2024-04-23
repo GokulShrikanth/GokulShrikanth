@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, I am Gokul Shrikanth and I am a master's student at [Dublin City Univerisity](https://www.dcu.ie/) majoring in Computer Science. I am a Backend java Engineer with over three years of experience in building reliable and scalable software at [Freshworks](https://freshworks.com) My technology stack is Java, Spring, Maven, Vertx, MySQL, javascript and, HTML/CSS.
+Hello, I am Gokul Shrikanth, a master's student at [Dublin City Univerisity](https://www.dcu.ie/) majoring in Computer Science. I am a Backend Java Engineer with over three years of experience in building reliable and scalable software at [Freshworks](https://freshworks.com) My technology stack is Java, Spring, Maven, Vertx, MySQL, javascript and, HTML/CSS.
 
 - 🙇🏻 Currently I am working on building fun projects and studying.
 - 📫 How to reach me: gokulshrikanth99@gmail.com
-- 📝 [Resume](https://gokulshrikanth.vercel.app)
+- 📝 [Portfolio](https://gokulshrikanth.vercel.app)
 
 **Languages and Tools:**
 
