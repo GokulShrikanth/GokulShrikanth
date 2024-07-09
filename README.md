@@ -48,5 +48,6 @@ Hello, I am Gokul Shrikanth, a master's student at [Dublin City Univerisity](htt
 
 <!-- ![Gokul's Github Stats](https://github-readme-stats.vercel.app/api?username=GokulShrikanth&count_private=true&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulShrikanth&hide=TeX&layout=compact)
+[![roadmap.sh](https://roadmap.sh/card/wide/65e5e6378947e435e7791322?variant=dark)](https://roadmap.sh)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GokulShriaknth.GokulShrikanth)
